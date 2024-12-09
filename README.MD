@@ -18,7 +18,7 @@ Desenvolver um **relógio analógico com ponteiros** utilizando **Java Swing**, 
     - Janela com fundo branco e renderização suave para melhor visualização.
 
 ## Tecnologias Utilizadas
-- **Java SE** para desenvolvimento.
+- **Java** para desenvolvimento.
 - **Swing** para a interface gráfica.
 - **Timer** para atualizações em tempo real.
 
